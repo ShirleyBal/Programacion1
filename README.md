@@ -1,4 +1,4 @@
-Programación 1
+#Programación 1
 
 Este repositorio fue creado con el objetivo de documentar y registrar todas las actividades, trabajos prácticos, ejercicios y proyectos realizados en el marco de la materia Programación 1 de la Universidad Tecnológica Nacional (UTN).
 
@@ -31,4 +31,5 @@ Facilitar la organización de los trabajos prácticos y apuntes.
 Reforzar lo aprendido mediante la práctica constante.
 
 🧑‍💻 Autor
+
 Este repositorio es mantenido por Shirley Balbuena, estudiante de la UTN.
